@@ -1,7 +1,7 @@
 [![Signature](https://raw.githubusercontent.com/yrccondor/yrccondor/master/signature.svg)](https://axton.cc)
 <p align="center">
 <br>
-<em>Always dream. Always explore.</em>
+<em><font size="+1">Always dream. Always explore.</font></em>
 <br>
 <br>
 <br>
