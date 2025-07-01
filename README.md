@@ -24,3 +24,11 @@
 </p>
 
 [![Signature](https://raw.githubusercontent.com/yrccondor/yrccondor/master/copyright.svg)](https://github.com/milkice233)
+
+---
+
+### ⛷️ What I'm currently working on
+
+- [Axton Gallery](https://axton.gallery): A collection of my photos, a test field for latest web tech
+- [PRF Password Manager](https://github.com/yrccondor/prf-password-manager): A fully local password management tool based on WebAuthn PRF extension and Large Blob extension
+- [WP-WebAuthn](https://github.com/yrccondor/wp-webauthn): A WordPress plugin that allows you to safely login to your WordPress site without password
